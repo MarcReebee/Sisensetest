@@ -3,28 +3,6 @@
         "columns": [
             {
                 "cells": [
-                    {
-                        "subcells": [
-                            {
-                                "elements": [
-                                    {
-                                        "autoHeight": "187px",
-                                        "defaultWidth": 512,
-                                        "height": "187px",
-                                        "maxHeight": 2048,
-                                        "maxWidth": 2048,
-                                        "minHeight": 128,
-                                        "minWidth": 128,
-                                        "widgetid": "638517d51c162100377c0fe5"
-                                    }
-                                ],
-                                "index": 0,
-                                "pxlWidth": 0,
-                                "stretchable": false,
-                                "width": 100
-                            }
-                        ]
-                    }
                 ],
                 "index": 0,
                 "pxlWidth": 0,
