@@ -1,0 +1,39 @@
+{
+    "dataExploration": false,
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aGeofenceIAAaLastIAAaVisit",
+        "fullname": "localhost/Geofence Last Visit",
+        "id": "localhost_aGeofenceIAAaLastIAAaVisit",
+        "live": false,
+        "title": "Geofence Last Visit"
+    },
+    "desc": "",
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "638517c71c162100377c0fe3",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "name": "vivid",
+        "palette": {
+            "colors": [
+                "#32baff",
+                "#0087cc",
+                "#63bef7",
+                "#007acd",
+                "#555d60",
+                "#aeaeae"
+            ],
+            "name": "www.reebee.com",
+            "sortOrder": 0
+        }
+    },
+    "title": "Geofence Last Visit Test",
+    "widgets": [
+        "./widgets/638517d51c162100377c0fe5/widget.json"
+    ]
+}
